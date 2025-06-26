@@ -74,7 +74,7 @@ npm install
 #### Frontend
 
 ```bash
-cd ../frontend
+cd ../frontend/expense-tracker-frontend
 npm install
 ```
 
