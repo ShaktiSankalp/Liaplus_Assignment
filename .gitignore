@@ -1,0 +1,28 @@
+#  Node & Backend 
+/backend/node_modules/
+backend/.env
+backend/*.log
+
+#  React & Frontend 
+/frontend/expense-tracker-frontend/node_modules/
+frontend/expense-tracker-frontend/build/
+frontend/expense-tracker-frontend/.env
+frontend/expense-tracker-frontend/.env.*.local
+
+#  Logs & Misc 
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+#  Testing 
+coverage/
+
+#  Optional
+.env          
