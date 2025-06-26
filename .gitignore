@@ -1,7 +1,10 @@
 #  Node & Backend 
+**/node_modules/
+**/.cache/
 /backend/node_modules/
 backend/.env
 backend/*.log
+
 
 #  React & Frontend 
 /frontend/expense-tracker-frontend/node_modules/
