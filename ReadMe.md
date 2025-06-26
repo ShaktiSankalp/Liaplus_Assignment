@@ -58,7 +58,7 @@ project-root/
 ### 1. **Clone the repository**
 
 ```bash
-https://github.com/your-username/expense-tracker.git
+https://github.com/ShaktiSankalp/Liaplus_Assignment
 cd expense-tracker
 ```
 
