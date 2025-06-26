@@ -102,7 +102,7 @@ mongod
 
 ```bash
 cd backend
-npm run dev
+node server.js
 ```
 
 #### Start Frontend
