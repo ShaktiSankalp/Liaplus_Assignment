@@ -21,7 +21,7 @@ const AddExpense = () => {
     setError("");
     try {
       await api.post("/expenses", expense);
-      navigate("/"); // redirect to home or list after add
+      navigate("/"); 
     } catch (err) {
       setError(err.response?.data?.message || "Something went wrong");
     }
